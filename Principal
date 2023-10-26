@@ -1,0 +1,10 @@
+
+public class Principal {
+    
+    public static void main (String [] args) {
+        
+        FiguraGeometrica figura = new FiguraGeometrica("null", "null");
+        figura.escogerFigura();
+        
+    }
+}
